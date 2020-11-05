@@ -37,6 +37,8 @@ For any type of problem, if you were able to pass most of the test cases but jus
 
 You may struggle with some or many of these problems. Be patient with yourself and trust that with time and practice, you’ll improve. You’ll be amazed at how much you progress with each week or month!
 
-Also, if you look at others’ solutions, be aware that shorter doesn’t mean better. Aim for a solution that makes sense to you, which you can also explain to others. Three lines of easy-to-understand code is better than one line of confusing code.
+If you look at others’ solutions, be aware that shorter doesn’t mean better. Aim for a solution that makes sense to you, which you can also explain to others. Three lines of easy-to-understand code is better than one line of confusing code.
+
+If you use an online platform that provides information on how fast your code runs or how well it utilizes memory, take that information with a giant grain of salt. Many of those platforms do not tell you how they arrive at those results, and you may find that the results vary greatly even when running the same code. You might also find that someone with a similar solution to yours has wildly different performance results - an indication that the platform isn’t calculating results correctly.
 
 Lastly, try not to compare yourself to others at this point. Everyone progresses at a different pace, and that’s OK. The key is to keep trying while taking care of yourself mentally and physically.
