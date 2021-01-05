@@ -27,7 +27,7 @@ During this portion of the course, we will be preparing you for both types of in
 
 ## How to Progress Through This Section
 
-We recommend approaching these problems in order by yourself since each problem increases in difficulty. For a problem that is meant to be solved on the same day, work on it for 30 minutes. If you can’t solve it in 30 minutes, work on something else, and then come back to it and give yourself up to 30 more minutes. For problems that are meant to be solved over the course of several days, set aside 30 to 60 minutes each day to work on them.
+We recommend approaching these problems in order by yourself since each problem increases in difficulty. For a problem that is meant to be solved on the same day, work on it for 30 minutes. If you can’t solve it in 30 minutes, work on something else, and then come back to it and give yourself up to 30 more minutes. For problems that are meant to be solved over the course of several days, set aside 30 to 60 minutes each day to work on them. If you reach the time limit and have not solved the problem, look at our solution or someone else's and take time to understand why it works. Some days, due to your workload, you may need to set a shorter time limit; we recommend a minimum of 20 minutes total.
 
 If you fall behind, e.g. you didn’t solve Week 1 Day 2’s problem on time, keep in mind that we usually have bonus problems and spare time available in Week 3 of any Phase. You can always use this time to catch up on problems you missed. Don’t worry if you don’t finish all of the problems before the next Phase, you can always come back to them when you have time or even after graduation.
 
